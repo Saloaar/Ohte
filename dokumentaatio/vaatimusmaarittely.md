@@ -1,1 +1,2 @@
 Vaatimusmäärittely
+Sovelluksen idea
